@@ -1,0 +1,51 @@
+body {
+	background-color: #D7EDFC;
+	font-family: 'Montserrat', sans-serif;
+}
+.required {
+	color: red;
+	margin-left: 3px;
+}
+.row_height {
+	height: 10px;
+}
+input {
+	border: 2px solid #fff;
+	width: 100%;
+	border-radius: 5px;
+}
+.label-font {
+	font-size: 12px;
+	font-weight: 600;
+}
+option {
+	font-size: 12px;
+	font-weight: 600;
+}
+select {
+	font-size: 12px;
+	font-weight: 600;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	background: linear-gradient(#FCFEFE, #EAEAEA, #CED1D3);
+}
+button {
+	width: 100%;
+	border: none;
+	border-radius: 20px;
+	background-color: #0B5AAC;
+	color: #fff;
+	padding: 10px 0;
+}
+.number {
+	color: #0B5AAC;
+}
+.grey {
+	color: #A8BBC2;
+	margin-left: 10px;
+}
+.receipt-font {
+	font-size: 13px;
+	font-weight: 500;
+}
